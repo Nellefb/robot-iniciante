@@ -1,0 +1,13 @@
+# Resultados do Robot Framework
+log.html
+report.html
+output.xml
+
+# Screenshots
+*.png
+
+# Cache Python
+__pycache__/
+
+# VS Code
+.vscode/
